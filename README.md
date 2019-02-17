@@ -1,2 +1,2 @@
-# DMTM-HW1
+# Data Mining Text Mining 
 DMTM MS-GSP implementation
